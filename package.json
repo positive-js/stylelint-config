@@ -1,0 +1,32 @@
+{
+  "name": "stylelint-config",
+  "version": "0.1.0",
+  "description": "PositiveJS stylelint rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/positive-js/stylelint-config.git"
+  },
+  "keywords": [
+    "stylelint",
+    "positivejs",
+    "ptsecurity",
+    "css",
+    "scss"
+  ],
+  "author": "Positive Technologies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/positive-js/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/positive-js/stylelint-config#readme",
+  "dependencies": {
+      "stylelint-scss": "2.1.0"
+  },
+  "peerDependencies": {
+      "stylelint": "8.2.0"
+  }
+}
